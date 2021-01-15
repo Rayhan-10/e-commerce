@@ -1,0 +1,135 @@
+body{
+    font-family: roboto;
+}
+
+a.nav-item.nav-link {
+    margin: 10px;
+}
+
+
+.banner-title {
+    font-size: 70px;
+    color: #363958;
+    font-weight: 500;
+    text-transform: uppercase;
+    margin-top: 100px;
+    font-family: 'Bebas Neue', cursive;
+    margin-bottom: 0px;
+}
+
+.banner-title-tow{
+    font-size: 70px;
+    color: #76C27E;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-family: 'Bebas Neue', cursive;
+}
+
+
+.common-btn a{
+    padding: 16px 30px;
+    background: #2A1E59;
+    border-radius: 10px;
+    color: #fff;
+    transition: 0.3s;
+    font-size: 18px;
+    font-family: ro;
+}
+.common-btn a:hover{
+    background: #160d3a;
+    color: #fff;
+    text-decoration: none;
+}
+
+.common-btn {
+    text-transform: uppercase;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.banner-section{
+    background-color: #FFFFF4;
+}
+
+.about-thumb img{
+    width: 80px;
+}
+.about-thumb{
+    padding: 0px 30px;
+}
+
+.about-section{
+    padding: 120px 0px;
+}
+
+.about-inner {
+    margin: 0 0px 15px 0;
+    border: 2px solid #d1c9c93b;
+    box-shadow: 1px 3px 16px 4px #cccbcd52;
+    padding: 10px;
+}
+
+.header-area.mb-5 {
+    text-transform: uppercase;
+}
+.product-thumb img{
+    width: 100%;
+    padding: 30px;
+}
+.product-content h3{
+    color: #363958;
+    font-size: 24px;
+}
+
+.product-thumb{
+    align-items: center;
+    text-align: center;
+}
+
+.common-btne a{
+    padding: 10px 20px;
+    background: #2A1E59;
+    border-radius: 10px;
+    color: #fff;
+    transition: 0.3s;
+    font-size: 18px;
+}
+.common-btne a:hover{
+    background: #160d3a;
+    color: #fff;
+    text-decoration: none;
+}
+
+.common-btne {
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
+
+
+.product-inner {
+    padding: 25px;
+    box-shadow: 0px 5px 15px 7px #b8b0b059;
+}
+
+
+
+.footer-section {
+    background-color: #160d3a;
+    padding-top: 70px;
+    padding-bottom: 20px;
+}
+.footer-section h2 {
+    color: #fff;
+}
+
+.input-mail{
+    width: 70%;
+    padding: 10px 20px;
+}
+
+.input-btn{
+    margin-left: 10px;
+    width: 25%;
+    padding: 10px 20px;
+    background: #c0bbbb !important;
+}
+    
